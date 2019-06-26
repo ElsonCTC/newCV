@@ -36,3 +36,48 @@ body{
 .otherPage{
   color: #96969D
 }
+/*.footer{
+  font-family: 'Open Sans', sans-serif;
+  font-weight: 700;
+  color: #96969D
+}
+*/
+header h1{
+  padding-top: 20px;
+}
+
+ul{
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+  overflow: hidden;
+  background-color: #5A5A66;
+}
+
+li{
+  float: left;
+}
+
+li a{
+  display: block;
+  color: white;
+  text-align: center;
+  padding: 15px 20px;
+  text-decoration: none;
+}
+
+li a:hover{
+  background-color: #AC7B84
+}
+
+#about{
+  background-color: #eeeeee
+  width: 70%
+  float: left;
+}
+
+#employment{
+  background-color: #dddddd
+  width: 30%
+  float: right;
+}
