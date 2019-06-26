@@ -3,7 +3,12 @@
 
 h1{
   font-family: 'Lora', serif;
+  font-weight: 400;
+}
 
+h2{
+  font-family: 'Lora', serif;
+  font-weight: 700;
 }
 /*font-family: 'Lora', serif;
 font-family: 'Merriweather', serif;
