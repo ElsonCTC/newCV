@@ -1,0 +1,12 @@
+/*Added external fonts*/
+
+@import url('https://fonts.googleapis.com/css?family=Open+Sans:400,700|Proza+Libre:400,700&display=swap');
+
+h1{
+  font-family: 'Proza Libre', sans-serif;
+}
+
+/*
+font-family: 'Proza Libre', sans-serif;
+font-family: 'Open Sans', sans-serif;
+/*
