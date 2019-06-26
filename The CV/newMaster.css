@@ -4,12 +4,40 @@
 
 h1{
   font-family: 'Proza Libre', sans-serif;
-  font-weight: 400;
-  color: ##CEE5F2
+  font-weight: 700;
+  color: #5A5A66
 
 }
 
-/*
-font-family: 'Proza Libre', sans-serif;
-font-family: 'Open Sans', sans-serif;
-/*
+h2{
+  font-family: 'Open Sans', sans-serif;
+  font-weight: 700;
+  color: #52414C
+
+}
+
+h3{
+  font-family: 'Open Sans', sans-serif;
+  font weight: 400;
+  color: #52414C
+}
+
+p{
+  font-family: 'Open Sans', sans-serif;
+  font-weight: 400;
+  color: #84929B
+}
+
+body{
+  background-color: #E7E7E7;
+}
+
+header,main{
+  max-width: 500px;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.otherPage{
+  color: #96969D
+}
