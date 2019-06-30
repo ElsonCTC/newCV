@@ -30,7 +30,8 @@ p{
 
 body{
   background-color: #E7E7E7;
-    max-width: 500px;
+  max-width: 500px;
+  margin: 0 auto;
 }
 
 .otherPage{
@@ -71,13 +72,31 @@ li a:hover{
 }
 
 #about{
-  background-color: #E7E7E7;
-  width: 70%;
+  background-color: #C7C1C6;
+  width: 60%;
   float: left;
+  height: 400px;
 }
 
 #employment{
   background-color: #dddddd;
-  width: 30%;
+  width: 40%;
   float: right;
+  height: 400px;
+}
+
+#footerLoc{
+  width: 60%;
+  float:left;
+  background-color: #DED9D9;
+}
+
+#footerInfo{
+  width: 40%;
+  float: right;
+  background-color: #DED9D9;
+}
+
+.box{
+  padding: 0 25px 0 25px;
 }
