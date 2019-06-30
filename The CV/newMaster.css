@@ -85,6 +85,12 @@ li a:hover{
   height: 400px;
 }
 
+#footerLocation{
+  width: 100%;
+  float:left;
+  background-color: #DED9D9;
+}
+
 #footerLoc{
   width: 60%;
   float:left;
@@ -96,6 +102,7 @@ li a:hover{
   float: right;
   background-color: #DED9D9;
 }
+
 
 .box{
   padding: 0 25px 0 25px;
