@@ -107,3 +107,16 @@ li a:hover{
 .box{
   padding: 0 25px 0 25px;
 }
+
+.img-doghug{
+  width: 300px;
+  background-size: contain;
+}
+.img-dogfeeding{
+  width: 300px;
+  background-size: contain;
+}
+.img-hike{
+  width: 300px;
+  background-size: contain;
+}
