@@ -1,1 +1,36 @@
+<!DOCTYPE html>
+<!-- all images found in website https://www.pexels.com/ repective Photographers will have the jpeg file named
+after them-->
+<html lang="en" dir="ltr">
+  <head>
+    <meta charset="utf-8">
+    <title>Projects</title>
+    <link rel="stylesheet" href="newMaster.css">
+    <script src="https://kit.fontawesome.com/0aa6b0c6e3.js"></script>
+  </head>
 
+  <body>
+    <header>
+      <h1><i class="far fa-image"></i>Projects</h1>
+      <nav>
+        <ul>
+          <li><a href="CV.html">Main Page</a> </li>
+            <li><a href="Projects.html">Projects</a> </li>
+          <li><a href="Contact.html">Contact</a> </li>
+        </ul>
+      </nav>
+    </header>
+
+    <main>
+      <img class="img-doghug" src="img/Daria Shevtsova Dog Hug.jpeg" alt="">
+      <p>One of my first clients who loved her dog so much they decided to get a photoshot!</p>
+      <img class="img-dogfeeding" src="img/Kasuma feed dog.jpeg" alt="">
+      <p>This client likes to watch her dog actively looking for treats, which inspired me to take a photo of her dog getting treats!</p>
+      <img class="img-hike" src="img/Alex tim hike.jpeg" alt="">
+      <p>This client requested that we take a hike to show case what her hobbies include!</p>
+      <img class="img-sea" src="img/" alt="">
+
+    </main>
+
+  </body>
+</html>
