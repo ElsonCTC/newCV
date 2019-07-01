@@ -1,1 +1,122 @@
+*Added external fonts*/
 
+@import url('https://fonts.googleapis.com/css?family=Open+Sans:400,700|Proza+Libre:400,700&display=swap');
+
+h1{
+  font-family: 'Proza Libre', sans-serif;
+  font-weight: 700;
+  color: #5A5A66
+
+}
+
+h2{
+  font-family: 'Open Sans', sans-serif;
+  font-weight: 700;
+  color: #52414C
+
+}
+
+h3{
+  font-family: 'Open Sans', sans-serif;
+  font weight: 400;
+  color: #52414C
+}
+
+p{
+  font-family: 'Open Sans', sans-serif;
+  font-weight: 400;
+  color: #84929B
+}
+
+body{
+  background-color: #E7E7E7;
+  max-width: 500px;
+  margin: 0 auto;
+}
+
+.otherPage{
+  color: #96969D
+}
+/*.footer{
+  font-family: 'Open Sans', sans-serif;
+  font-weight: 700;
+  color: #96969D
+}
+*/
+header h1{
+  padding-top: 20px;
+}
+
+ul{
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+  overflow: hidden;
+  background-color: #5A5A66;
+}
+
+li{
+  float: left;
+}
+
+li a{
+  display: block;
+  color: white;
+  text-align: center;
+  padding: 15px 20px;
+  text-decoration: none;
+}
+
+li a:hover{
+  background-color: #AC7B84
+}
+
+#about{
+  background-color: #C7C1C6;
+  width: 60%;
+  float: left;
+  height: 400px;
+}
+
+#employment{
+  background-color: #dddddd;
+  width: 40%;
+  float: right;
+  height: 400px;
+}
+
+#footerLocation{
+  width: 100%;
+  float:left;
+  background-color: #DED9D9;
+}
+
+#footerLoc{
+  width: 60%;
+  float:left;
+  background-color: #DED9D9;
+}
+
+#footerInfo{
+  width: 40%;
+  float: right;
+  background-color: #DED9D9;
+}
+
+
+.box{
+  padding: 0 25px 0 25px;
+}
+
+.img-doghug{
+  width: 300px;
+  background-size: contain;
+}
+.img-dogfeeding{
+  width: 300px;
+  background-size: contain;
+}
+.img-hike{
+  width: 300px;
+  background-size: contain;
+}
